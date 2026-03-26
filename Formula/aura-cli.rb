@@ -6,8 +6,6 @@ class AuraCli < Formula
   version "0.1.0"
   license "MIT"
 
-  depends_on macos: ">= :sonoma"
-
   def install
     bin.install "aura-cli"
   end
