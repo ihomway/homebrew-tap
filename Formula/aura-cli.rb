@@ -1,9 +1,9 @@
 class AuraCli < Formula
   desc "macOS terminal UI for managing multiple Claude Code API providers"
   homepage "https://github.com/ihomway/aura-cli"
-  url "https://github.com/ihomway/aura-cli/releases/download/v0.2.1/aura-cli-v0.2.1-macos.tar.gz"
-  sha256 "cf62c0ec894f2156bacc4b6919e4e3d666bb67a3cd1239b6c1519cd12fdf40fc"
-  version "0.2.1"
+  url "https://github.com/ihomway/aura-cli/releases/download/v0.2.2/aura-cli-v0.2.2-macos.tar.gz"
+  sha256 "87c1e6f83e0e33dfddc74cff54e44f652545009430d79b5f7ba4eaf8d54896ff"
+  version "0.2.2"
   license "MIT"
 
   def install
